@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{599D897C-6812-4B0B-857D-819424FC3719}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/Effects/DigitalFontEffect.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/ViewModels/MainViewModel.cs">
     <Files>
-      <File FileName="DroneLander2/Effects/DigitalFontEffect.cs" Line="17" Column="4" />
+      <File FileName="DroneLander2/App.xaml.cs" Line="27" Column="44" />
+      <File FileName="DroneLander2/Common/CoreConstants.cs" Line="23" Column="75" />
+      <File FileName="DroneLander2/ViewModels/MainViewModel.cs" Line="17" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -26,8 +26,13 @@
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.ObjectModel.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Globalization.dll
-/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Analytics.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/Microsoft.Azure.Mobile.Crashes.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Threading.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Collections.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.ComponentModel.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Xml.ReaderWriter.dll
@@ -40,7 +45,6 @@
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Net.Http.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.ServiceModel.Internals.dll
-/Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Text.RegularExpressions.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Collections.Concurrent.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/System.Runtime.InteropServices.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/android/assets/Mono.Security.dll

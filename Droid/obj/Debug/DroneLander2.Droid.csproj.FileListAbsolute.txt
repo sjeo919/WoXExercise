@@ -18,14 +18,10 @@
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/DroneLander2.pdb
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/FormsViewGroup.pdb
-/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/FormsViewGroup.dll.mdb
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Core.pdb
-/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Core.xml
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
-/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
-/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/DroneLander2.Droid.csprojResolveAssemblyReference.cache
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/DroneLander2.Droid.csproj.CoreCompileInputs.cache
@@ -47,3 +43,10 @@
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/R.cs.flag
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/uploadflags.txt
 /Users/andrewJ/Projects/DroneLander2/Droid/obj/Debug/res/drawable/throttle_thumb.png
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Microsoft.Azure.Mobile.dll
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/andrewJ/Projects/DroneLander2/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb

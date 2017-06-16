@@ -17,3 +17,6 @@
 /Users/andrewJ/Projects/DroneLander2/DroneLander2/obj/Debug/DroneLander2.DroneLander2Page.xaml.g.cs
 /Users/andrewJ/Projects/DroneLander2/DroneLander2/obj/Debug/DroneLander2.dll
 /Users/andrewJ/Projects/DroneLander2/DroneLander2/obj/Debug/DroneLander2.pdb
+/Users/andrewJ/Projects/DroneLander2/DroneLander2/bin/Debug/Microsoft.Azure.Mobile.Analytics.dll
+/Users/andrewJ/Projects/DroneLander2/DroneLander2/bin/Debug/Microsoft.Azure.Mobile.Crashes.dll
+/Users/andrewJ/Projects/DroneLander2/DroneLander2/bin/Debug/Microsoft.Azure.Mobile.dll
