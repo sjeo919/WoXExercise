@@ -21,10 +21,9 @@ namespace DroneLander2
         protected override void OnStart()
         {
 			// Handle when your app starts
-			MobileCenter.Start("android=9c9bccaf-be03-4510-87e9-71ef7aab0e62;" +
-				   "uwp={Your UWP App secret here};" +
-				   "ios={Your iOS App secret here}",
-				   typeof(Analytics), typeof(Crashes));
+			MobileCenter.Start($"android={Common.MobileCenterConstants.AndroidAppId};" +
+			   $"ios={Common.MobileCenterConstants.iOSAppId}",
+			   typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()
