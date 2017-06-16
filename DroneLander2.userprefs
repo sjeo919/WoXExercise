@@ -3,7 +3,7 @@
     <Files>
       <File FileName="DroneLander2/App.xaml.cs" Line="27" Column="44" />
       <File FileName="DroneLander2/Common/CoreConstants.cs" Line="23" Column="75" />
-      <File FileName="DroneLander2/ViewModels/MainViewModel.cs" Line="17" Column="20" />
+      <File FileName="DroneLander2/ViewModels/MainViewModel.cs" Line="36" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
