@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{599D897C-6812-4B0B-857D-819424FC3719}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DroneLander2/Effects/DigitalFontEffect.cs">
+    <Files>
+      <File FileName="DroneLander2/Effects/DigitalFontEffect.cs" Line="17" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DroneLander2.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DroneLander2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1F591769-DB7B-44D1-AED3-5D54F1599964" />
+</Properties>
